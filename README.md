@@ -171,8 +171,3 @@ Make sure the Flask backend is up and running before testing the frontend chatbo
 - **Port Already in Use?** Stop other services running on port 5000 or change port in the Docker run command.
 - **Missing Dependencies?** Run `flutter pub get` again or check `pubspec.yaml`.
 
----
-
-## 👥 Team Tridents, IIT (ISM) Dhanbad
-
----
