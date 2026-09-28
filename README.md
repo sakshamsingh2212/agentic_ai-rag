@@ -132,7 +132,7 @@ Replace the respective `"YOUR_API_KEY"` placeholders in the `.env` or config fil
 
 ```bash
 # Clone the Repository
-git clone https://github.com/Kunal-3004/Assessli-AI-Hackathon.git
+git clone https://github.com/sakshamsingh2212/agentic_ai-rag.git
 
 # Navigate to the Flutter App Directory
 cd Assessli-AI-Hackathon
